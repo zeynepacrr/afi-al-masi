@@ -1,2 +1,2 @@
-# afi-al-masi
+# afişçalişmasi
 Graphic design practice featuring a nature poster in Photoshop.
